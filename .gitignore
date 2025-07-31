@@ -1,0 +1,14 @@
+# Ignore Firebase credentials and other secrets
+bioauth-bm3o4-firebase-adminsdk-fbsvc-d5d8594754.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
